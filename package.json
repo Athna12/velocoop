@@ -1,0 +1,9 @@
+{
+  "name": "velocoop",
+  "version": "0.4.0",
+  "private": true,
+  "description": "Tickets, devis et factures de l'atelier Velocoop",
+  "scripts": {
+    "test": "node --test"
+  }
+}
