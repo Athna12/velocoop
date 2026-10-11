@@ -1,5 +1,5 @@
 'use strict';
-const TVA = 0.19;
+const TVA = 0.2;
 
 function centimes(x) {
   return Math.round((x + Number.EPSILON) * 100) / 100;
